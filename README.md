@@ -45,3 +45,6 @@ The behavior of the whole system is as follows:
    
 11. The parent process must kill all its children, free the semaphores facility it is using
     and exit.
+    
+# running Sampel
+![running Sampel](https://github.com/RaghadQadah/Game-using-Semaphores/blob/main/runningSampel.PNG)
